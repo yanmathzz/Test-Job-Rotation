@@ -1,0 +1,1 @@
+Neste exemplo, é utilizado um arquivo JSON como fonte dos dados de faturamento diário. É feita a remoção dos dias sem faturamento e, em seguida, são calculadas as informações solicitadas. Por fim, os resultados são impressos na tela.

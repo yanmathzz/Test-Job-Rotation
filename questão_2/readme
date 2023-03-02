@@ -1,0 +1,5 @@
+Explicando o código: primeiro, o programa solicita um número ao usuário e armazena em uma variável chamada num. Em seguida, são definidas as variáveis fib1, fib2 e fib, que armazenam respectivamente o primeiro, segundo e terceiro termos da sequência de Fibonacci. A partir do terceiro termo, cada valor é a soma dos dois termos anteriores.
+
+A partir disso, o programa entra em um loop while, que continua enquanto o valor atual da variável fib for menor que o número digitado pelo usuário. Dentro do loop, são atualizadas as variáveis fib1, fib2 e fib para os próximos termos da sequência de Fibonacci.
+
+Ao final do loop, o programa verifica se o valor de fib é igual ao número digitado pelo usuário. Se for, significa que o número pertence à sequência de Fibonacci e é exibida uma mensagem informando isso. Caso contrário, é exibida uma mensagem informando que o número não pertence à sequência.
